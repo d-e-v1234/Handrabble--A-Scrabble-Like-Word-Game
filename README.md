@@ -1,5 +1,5 @@
 🧠 Handrabble
- A console-based word game inspired by Scrabble that allows users to play through multiple hands, score words, and interact with the game using a variety of rules.
+A console-based word game inspired by Scrabble that allows users to play through multiple hands, score words, and interact with the game using a variety of rules.
 
 📌 Features
 Generate random hands using letters with variable frequencies
